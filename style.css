@@ -1,0 +1,7 @@
+button {
+-moz-appearance: none;
+-webkit-appearance: none;
+appearance: none;
+
+font-size: 3em;
+border-radius: 3px;
