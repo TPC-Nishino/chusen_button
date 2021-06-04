@@ -5,3 +5,7 @@ appearance: none;
 
 font-size: 3em;
 border-radius: 3px;
+
+  .button_wrapper{
+text-align:center;
+}
