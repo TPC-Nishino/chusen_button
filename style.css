@@ -1,3 +1,8 @@
+h1{
+font-size: 100px;
+text-align: center
+}
+
 button {
 -moz-appearance: none;
 -webkit-appearance: none;
@@ -5,7 +10,8 @@ appearance: none;
 
 font-size: 3em;
 border-radius: 3px;
+}
 
-  .button_wrapper{
+.button_wrapper{
 text-align:center;
 }
